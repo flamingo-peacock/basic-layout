@@ -1,0 +1,26 @@
+body{
+	background: #999;
+}
+
+header{
+	width: 100%;
+	background: #333;
+	height: 75px;
+}
+
+
+.content-section{
+	position: relative;
+	width: 80%;
+	margin: auto;
+	background: #fff;
+	height: 700px;
+}
+
+footer{
+	position: absolute;
+	bottom: 0;
+	background: #666;
+	height: 50px;
+	width: 100%;
+}
